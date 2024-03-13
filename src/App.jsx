@@ -4,9 +4,7 @@ import Products from './Pages/Products'
 function App() {
   return (
     <>
-      <div>
-          <Products />
-      </div>
+      
     </>
   )
 }
